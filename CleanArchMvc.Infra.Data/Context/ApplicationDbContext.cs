@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArchMvc.Infra.Data.Contexxt
+namespace CleanArchMvc.Infra.Data.Context
 {
     public class ApplicationDbContext : DbContext // padrao repository e energy of work
     {
